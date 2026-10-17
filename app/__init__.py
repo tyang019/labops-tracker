@@ -1,0 +1,1 @@
+"""LabOps Tracker application package."""
